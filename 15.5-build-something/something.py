@@ -10,5 +10,7 @@ def something():
         print("Nice")
     elif randomNum < 2:
         print("Also nice...")
+    else:
+        print("3 or 4")
 
 something()
