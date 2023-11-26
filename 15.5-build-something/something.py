@@ -11,6 +11,6 @@ def something():
     elif randomNum < 3:
         print("Also nice...")
     else:
-        print("4 or 5")
+        print("4 or 5, less than 6")
 
 something()
