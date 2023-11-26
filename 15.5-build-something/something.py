@@ -8,9 +8,9 @@ def something():
     print(randomNum)
     if randomNum > 5:
         print("Nice")
-    elif randomNum < 2:
+    elif randomNum < 3:
         print("Also nice...")
     else:
-        print("3, 4 or 5")
+        print("4 or 5")
 
 something()
