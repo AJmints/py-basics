@@ -8,6 +8,7 @@ def something():
     print(randomNum)
     if randomNum > 4:
         print("Nice")
-
+    elif randomNum < 2:
+        print("Also nice...")
 
 something()
